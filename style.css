@@ -6,13 +6,13 @@ header {
     background-color: rgb(155, 18, 18);
     font-family: 'Times New Roman', Times, serif;
     color: rgb(255, 255, 255);
-    top: 0¢;
+    top: 0;
     left: 50%;
     width: 100%;
 }
 
 body {
-    background-image: url(assets/210084171-mãos-de-uma-mulher-caucasiana-colocando-gotas-de-sangue-em-fundo-branco-com-espaço-de-cópia.jpg);
+    background-image: url(assets/Design\ sem\ nome.jpg);
     background-size: cover;
     background-position: center;
     text-align: left;
@@ -28,4 +28,10 @@ button {
     background-color: rgb(155, 18, 18);
     font-family: 'Times New Roman', Times, serif;
     color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+form{
+    position: relative;
+    left: 25%;
 }
